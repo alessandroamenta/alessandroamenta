@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-Self-taught software engineer 🛠 from Italy, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
+Self-taught software engineer 🛠 from Italy, economist by training, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
 #### :man_technologist: About Me :
 
