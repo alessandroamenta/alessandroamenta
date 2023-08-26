@@ -2,14 +2,6 @@
 
 Self-taught software engineer 🛠 from Italy, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
-#### :man_technologist: About Me :
-
-"Curiosity is the wick in the candle of learning." This quote perfectly sums up my approach to technology and life. With a strong proficiency in Python and web development, I specialize in Language Model-based applications, particularly using frameworks like Langchain and databases like Weaviate. Python isn't just a programming language for me; it's a playground where I build neural networks from scratch just for the thrill of it.
-
-I'm a full-stack developer with a focus on leveraging Language Learning Models (LLMs) to create impactful solutions. My skill set extends to prompt engineering, FastAI, and other LLM-related techniques. I have a knack for communicating complex technical concepts in a way that anyone can understand, making me an effective team player and leader.
-
-What sets me apart? I'm naturally curious and always asking the right questions. While I may not have all the answers upfront, my inquisitive nature ensures that I'll find them. There's no price tag on curiosity, but hiring me is the next best thing.
-
 ##### 💻 Languages : 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
