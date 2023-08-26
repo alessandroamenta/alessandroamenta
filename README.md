@@ -2,6 +2,10 @@
 
 Self-taught software engineer 🛠 from Italy, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
+#### :man_technologist: About Me :
+
+Currently based in SF, busy building LLM projects and writing tech-related articles in my downtime. I let curiosity take me places and use backpropagation to improve my life.
+
 ##### 💻 Languages : 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
