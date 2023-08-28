@@ -30,7 +30,6 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" title="R"/></code>
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" title="Pandas"/></code>
-<code><img width="40" src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" alt="Tableau" title="Tableau"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Langchain" title="Langchain"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" title="Pinecone"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="Weaviate" title="Weaviate"/></code>
