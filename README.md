@@ -15,7 +15,7 @@
 
 Self-taught software engineer from Italy, economist by training, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
-#### :man_technologist: About Me :
+#### :man_technologist: About Me:
 
 Currently based in SF, busy building LLM projects and writing tech-related articles in my downtime. I let curiosity take me places and use backpropagation to improve my life.
 
