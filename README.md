@@ -33,6 +33,7 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Langchain" title="Langchain"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" title="Pinecone"/></code>
 <code><img width="40" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="Weaviate" title="Weaviate"/></code>
+<code><img width="40" src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" alt="Qdrant" title="Qdrant"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
