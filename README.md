@@ -15,11 +15,11 @@
 
 Self-taught software engineer from Italy, economist by training, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
-#### :man_technologist: About Me:
+### :man_technologist: About Me:
 
 Currently based in SF, busy building LLM projects and writing tech-related articles in my downtime. I let curiosity take me places and use backpropagation to improve my life.
 
-#### 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 
 
 <div align="center">
@@ -60,7 +60,7 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
 </div>
 
-#### 🛸 Quirks:
+### 🛸 Quirks:
 
 - I run the equivalent of a marathon each week.
 - I almost exclusively wear white t-shirts.
