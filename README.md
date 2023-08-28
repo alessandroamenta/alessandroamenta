@@ -51,4 +51,22 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 	<code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI"/></code>
+	<!-- FastAPI -->
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI"/></code>
+
+<!-- PyTorch -->
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch"/></code>
+
+<!-- Langchain -->
+<code><img width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Langchain" title="Langchain"/></code>
+
+<!-- Pinecone -->
+<code><img width="40" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" title="Pinecone"/></code>
+
+<!-- Pandas -->
+<code><img width="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" title="Pandas"/></code>
+
+<!-- Weaviate -->
+<code><img width="40" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="Weaviate" title="Weaviate"/></code>
+
 </div>
