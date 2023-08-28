@@ -59,3 +59,11 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
 </div>
+
+### 🛸 Quirks:
+
+- I run the equivalent of a marathon each week.
+- I almost exclusively wear white t-shirts.
+- I have a pretty crazy Duolingo streak.
+- Enjoy solo traveling. Visited 50+ countries.
+- Lasagna Enthusiast: Because who doesn't love layers of pasta and cheese?
