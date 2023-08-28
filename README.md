@@ -1,4 +1,4 @@
-### Ciao! 👋🏼 I'm Ale
+<h2 style="font-size: 36px;">Ciao! 👋🏼 I'm Ale</h2>
 
 <a href="https://github.com/alessandroamenta">
   <img src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow Badge"/>
