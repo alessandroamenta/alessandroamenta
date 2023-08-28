@@ -28,13 +28,16 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
 
+<code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch"/></code>
+<code><img width="40" src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" alt="Pandas" title="Pandas"/></code>
+
 <!-- Front-end -->
-<code><img width="40" src="https://user.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-<code><img width="40" src="https://user.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-<code><img width="40" src="https://user.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 
 <!-- Back-end -->
-<code><img width="40" src="https://user.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
 <code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
 <code><img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" title="FastAPI"/></code>
 
@@ -42,6 +45,8 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <code><img width="40" src="https://user.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 <code><img width="40" src="https://user.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" title="firebase"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+<code><img width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 
 <!-- Version Control -->
 <code><img width="40" src="https://user.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -50,6 +55,10 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 <!-- IDEs and Editors -->
 <code><img width="40" src="https://user.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 <code><img width="40" src="https://user.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+
+<code><img width="40" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="Langchain" title="Langchain"/></code>
+<code><img width="40" src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="Pinecone" title="Pinecone"/></code>
+<code><img width="40" src="https://avatars.githubusercontent.com/u/37794290?s=200&v=4" alt="Weaviate" title="Weaviate"/></code>
 </div>
 
 
