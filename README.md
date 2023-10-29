@@ -66,4 +66,5 @@ Currently based in SF, busy building LLM projects and writing tech-related artic
 - I almost exclusively wear white t-shirts.
 - I have a pretty crazy Duolingo streak.
 - Enjoy solo traveling. Visited 50+ countries.
+- I can move my ears.
 - Lasagna Enthusiast: Because who doesn't love layers of pasta and cheese?
