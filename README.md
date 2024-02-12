@@ -17,7 +17,7 @@ Self-taught software engineer from Italy, economist by training, now navigating 
 
 ### :man_technologist: About Me:
 
-Currently based in SF, busy building LLM projects and writing tech-related articles in my downtime. I let curiosity take me places and use backpropagation to improve my life.
+Currently splitting my time between San Francisco & Amsterdam, busy building LLM projects and writing tech-related articles in my downtime. I let curiosity take me places and use backpropagation to improve my life.
 
 ### 🛠 Languages and Tools:
 
