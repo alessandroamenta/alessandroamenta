@@ -67,4 +67,4 @@ Currently splitting my time between San Francisco & Amsterdam, busy building LLM
 - I have a pretty crazy Duolingo streak.
 - Enjoy solo traveling. Visited 50+ countries.
 - I can move my ears.
-- Lasagna Enthusiast: Because who doesn't love layers of pasta and cheese?
+- Python is hands down my favorite language. ❤️
