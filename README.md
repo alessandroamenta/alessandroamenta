@@ -65,6 +65,5 @@ Currently splitting my time between San Francisco & Amsterdam, busy building LLM
 - I run the equivalent of a marathon each week.
 - I almost exclusively wear white t-shirts.
 - I have a pretty crazy Duolingo streak.
-- Enjoy solo traveling. Visited 50+ countries.
 - I can move my ears.
 - Python is hands down my favorite language. ❤️
