@@ -1,5 +1,10 @@
 <h2 style="font-size: 36px;">Ciao! 👋🏼 I'm Ale</h2>
 
+### 🐍 Check out this python snacking on my Python
+![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 <a href="https://github.com/alessandroamenta">
   <img src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow Badge"/>
 </a>
@@ -67,7 +72,3 @@ Currently splitting my time between San Francisco & Amsterdam, busy building LLM
 - I have a pretty crazy Duolingo streak.
 - I can move my ears.
 - Python is hands down my favorite language. ❤️
-
-### 🐍 Watch a python eat my Python
-![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
