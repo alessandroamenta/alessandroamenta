@@ -69,6 +69,5 @@ Currently splitting my time between San Francisco & Amsterdam, busy building LLM
 - Python is hands down my favorite language. ❤️
 
 ### 🐍 Watch a python eat my Python
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/alessandroamenta/alessandroamenta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
