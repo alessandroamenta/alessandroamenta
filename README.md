@@ -12,6 +12,7 @@
 <a href="https://medium.com/@alessandroamenta1">
   <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
 </a>
+<a href="https://x.com/ale_amenta"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/> </a>
 
 Self-taught software engineer from Italy, economist by training, now navigating Silicon Valley’s tech maze. I live to build; be it groundbreaking code or IKEA furniture (debatable which is trickier).
 
